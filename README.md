@@ -1,4 +1,4 @@
-# road-to-yuzu-without-switch
+# inb4 this gets taken down
 This Repo explains how to install the yuzu Switch Emulator without a Switch on a Windows PC
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=Follow%20me&style=social&url=https%3A%2F%2Ftwitter.com%2Fprincessakari_)](https://twitter.com/SmallYukii)
